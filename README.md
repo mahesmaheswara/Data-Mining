@@ -99,5 +99,5 @@ weighted avg       1.00      1.00      1.00        13
 ## **Deployment**
 Aplikasi Streamlit telah di-deploy secara online.
 
-- **URL Aplikasi Streamlit**: http://192.168.1.11:8501
+- **URL Aplikasi Streamlit**: http://192.168.1.9:8501
 - **Contoh datasetnya**: https://drive.google.com/file/d/1c8d6AIJHLZRj4xzlJrtMM7pk5SCpA4lb/view?usp=sharing
